@@ -3,6 +3,7 @@ import NavBar from './NavBar'
 import Hero from './Hero'
 import Services from './Services'
 import About from './About'
+import Testimonial from './Testimonial'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <Services />
       <About />
+      <Testimonial />
     </div>
   )
 }
