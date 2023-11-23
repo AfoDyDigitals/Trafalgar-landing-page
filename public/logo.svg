@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #458ff6;
+      }
+
+      .cls-2 {
+        font-size: 45.833px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="21" cy="21" r="19.031"/>
+  <text id="T" class="cls-2" transform="translate(20.196 32.131) scale(0.737)"><tspan x="0">T</tspan></text>
+</svg>
